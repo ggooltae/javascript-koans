@@ -1,7 +1,7 @@
 # Memo
 
 VC Prep과정 대비 스터디
-시작 : 2021.03.20 (일)
+시작 : 2022.03.20 (일)
 
 # javascript-koans
 
